@@ -65,13 +65,22 @@ J’aide des particuliers, startups et entreprises à transformer leurs idées e
 
 ---
 
-### 🔐 Sécurité & Ethical Hacking
-- Sécurité applicative (OWASP Top 10)
-- Authentification & autorisation (JWT, RBAC)
-- Protection des APIs (CORS, rate limiting, validation)
-- Analyse de vulnérabilités (bases)
-- Tests de sécurité applicative (approche éthique)
-- Sensibilisation aux bonnes pratiques DevSecOps
+### 🔐 Cybersécurité & Réseaux (Cisco NetAcad)
+
+![Cisco](https://img.shields.io/badge/Cisco-NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9-0A2540?style=for-the-badge&logo=securityscorecard&logoColor=white)
+
+![Intro Cyber](https://img.shields.io/badge/Introduction%20%C3%A0%20la%20Cybers%C3%A9curit%C3%A9-2E8B57?style=for-the-badge)
+![Cyber Essentials](https://img.shields.io/badge/Essentiels%20de%20la%20Cybers%C3%A9curit%C3%A9-006400?style=for-the-badge)
+
+![Web Security](https://img.shields.io/badge/S%C3%A9curit%C3%A9%20Web-8B0000?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/S%C3%A9curit%C3%A9%20R%C3%A9seau-003366?style=for-the-badge)
+
+![Threats](https://img.shields.io/badge/Menaces%20et%20Vuln%C3%A9rabilit%C3%A9s-4B0082?style=for-the-badge)
+![Best Practices](https://img.shields.io/badge/Bonnes%20Pratiques%20de%20S%C3%A9curit%C3%A9-2F4F4F?style=for-the-badge)
+
+![Academic](https://img.shields.io/badge/Cours%20Acad%C3%A9miques-555555?style=for-the-badge)
+![Industry](https://img.shields.io/badge/Cours%20Industriels-696969?style=for-the-badge)
 
 ---
 
