@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c’est Larbi Faddani</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LarbiFaddani/LarbiFaddani/main/assets/dev-avatar.png" width="280" alt="Developer illustration"/>
+  <img src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" width="320" alt="Developer illustration"/>
 </p>
 
 <h3 align="center">
