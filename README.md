@@ -111,6 +111,7 @@ Plateforme web pour la réservation et la gestion des places de parking.
 
 ## 📬 Contact
 - 📧 Email : faddanilarbi01@gmail.com  
+- 📱 WhatsApp : [07 62 16 40 50](https://wa.me/212762164050)  
 - 📍 Localisation : Casablanca, Maroc  
 
 N’hésitez pas à me contacter pour discuter d’un projet ou d’une collaboration.
