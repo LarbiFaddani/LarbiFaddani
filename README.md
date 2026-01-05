@@ -4,9 +4,10 @@
   <img src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" width="320" alt="Developer illustration"/>
 </p>
 
-<h3 align="center">
-Développeur Full-Stack | Web & Mobile | Sécurité Applicative | Solutions orientées projets business
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=650&color=36BCF7&center=true&vCenter=true&width=900&lines=D%C3%A9veloppeur+Full-Stack+%7C+Web+%26+Mobile+%7C+S%C3%A9curit%C3%A9+Applicative+%7C+Solutions+orient%C3%A9es+projets+business" />
+</p>
+
 
 <p align="center">
   <a href="https://portfolio-react-kappa-fawn.vercel.app/acceuil">
