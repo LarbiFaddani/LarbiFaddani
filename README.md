@@ -13,7 +13,7 @@ Développeur Full-Stack | Web & Mobile | Sécurité Applicative | Solutions orie
     <img src="https://img.shields.io/badge/Portfolio-Visiter-blue?style=for-the-badge"/>
   </a>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   
   <a href="https://wa.me/212762164050">
     <img src="https://img.shields.io/badge/WhatsApp-07%2062%2016%2040%2050-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
