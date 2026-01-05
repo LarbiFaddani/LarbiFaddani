@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Développeur Full-Stack | Web & Mobile | Solutions orientées projetsIbusiness
+Développeur Full-Stack | Web & Mobile | Sécurité Applicative | Solutions orientées projets business
 </h3>
 
 <p align="center">
@@ -20,13 +20,13 @@ Développeur Full-Stack | Web & Mobile | Solutions orientées projetsIbusiness
 ---
 
 ## 🙋‍♂️ À propos de moi
-Développeur Full-Stack spécialisé dans la création d’applications **fiables, maintenables et prêtes pour la production**.  
-J’aide des particuliers, startups et petites entreprises à transformer leurs idées en **solutions digitales concrètes**.
+Développeur Full-Stack spécialisé dans la création d’applications **fiables, sécurisées et prêtes pour la production**.  
+J’aide des particuliers, startups et entreprises à transformer leurs idées en **solutions digitales concrètes et sûres**.
 
-- 🔭 Je travaille sur des projets **web et mobiles orientés business**
-- ⚙️ Fort accent sur **backend, APIs et architecture propre**
-- 💬 Discutons de **Flutter, React, Java, .NET, Laravel**
-- ⚡ Objectif : livrer des produits utiles, pas juste du code
+- 🔭 Projets **web et mobiles orientés business**
+- ⚙️ Fort accent sur **backend, APIs, sécurité et architecture propre**
+- 🔐 Sensibilité élevée à la **sécurité applicative**
+- ⚡ Objectif : livrer des produits utiles, performants et sécurisés
 
 ---
 
@@ -59,8 +59,19 @@ J’aide des particuliers, startups et petites entreprises à transformer leurs 
 ![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge)
 ![API REST](https://img.shields.io/badge/API%20REST-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT%20Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4B0082?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-2E8B57?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?style=for-the-badge)
+
+---
+
+### 🔐 Sécurité & Ethical Hacking
+- Sécurité applicative (OWASP Top 10)
+- Authentification & autorisation (JWT, RBAC)
+- Protection des APIs (CORS, rate limiting, validation)
+- Analyse de vulnérabilités (bases)
+- Tests de sécurité applicative (approche éthique)
+- Sensibilisation aux bonnes pratiques DevSecOps
 
 ---
 
@@ -78,11 +89,12 @@ J’aide des particuliers, startups et petites entreprises à transformer leurs 
 | Projet | Description | Repo |
 |------|------------|------|
 | 🎧 Podcast Player Mobile | Application Flutter de lecture de podcasts RSS avec player global et mini-player | https://github.com/LarbiFaddani/Podcast_flutter |
-| 🏢 Gestion de Stock | Système web complet pour la gestion des produits et des commandes | https://github.com/LarbiFaddani/Gestion_Stock |
-| 🚗 Gestion de Parking | Plateforme web pour la réservation et la gestion des places de parking | https://github.com/LarbiFaddani/gestion_parking |
+| 🏢 Gestion de Stock avec workflow complet | Système web complet pour la gestion des produits et des commandes | https://github.com/LarbiFaddani/Gestion_Stock |
 | 🔐 Détection de documents frauduleux (Blockchain) | Système de vérification et de détection de documents frauduleux basé sur la blockchain | https://github.com/LarbiFaddani/blockchain-docs |
+| 🚗 Gestion de Parking | Plateforme web pour la réservation et la gestion des places de parking | https://github.com/LarbiFaddani/gestion_parking |
 
 ---
+
 ## 🤝 Collaboration & Contact
 - 📧 Email : faddanilarbi01@gmail.com  
 - 📱 WhatsApp : [07 62 16 40 50](https://wa.me/212762164050)  
