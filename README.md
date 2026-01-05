@@ -82,16 +82,6 @@ J’aide des particuliers, startups et petites entreprises à transformer leurs 
 | 🚗 Gestion de Parking | Plateforme web de réservation de parking | À remplacer |
 
 ---
-
-## 📊 GitHub Stats
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=LarbiFaddani&show_icons=true&theme=tokyonight)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LarbiFaddani&layout=compact&theme=tokyonight)
-
-
----
-
 ## 🤝 Collaboration & Contact
 - 📧 Email : faddanilarbi01@gmail.com  
 - 📱 WhatsApp : [07 62 16 40 50](https://wa.me/212762164050)  
