@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=650&color=36BCF7&center=true&vCenter=true&width=900&lines=D%C3%A9veloppeur+Full-Stack+%7C+Web+%26+Mobile+%7C+Solutions+orient%C3%A9es+projets+business" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=650&color=36BCF7&center=true&vCenter=true&width=900&lines=D%C3%A9veloppeur+Full-Stack+Web+%26+Mobile+%7C+Solutions+orient%C3%A9es+projets+business" />
 </p>
 
 
