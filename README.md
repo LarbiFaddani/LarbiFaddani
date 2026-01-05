@@ -70,17 +70,21 @@ J’aide des particuliers, startups et entreprises à transformer leurs idées e
 ![Cisco](https://img.shields.io/badge/Cisco-NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybers%C3%A9curit%C3%A9-0A2540?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
-![Intro Cyber](https://img.shields.io/badge/Introduction%20%C3%A0%20la%20Cybers%C3%A9curit%C3%A9-2E8B57?style=for-the-badge)
 ![Cyber Essentials](https://img.shields.io/badge/Essentiels%20de%20la%20Cybers%C3%A9curit%C3%A9-006400?style=for-the-badge)
 
 ![Web Security](https://img.shields.io/badge/S%C3%A9curit%C3%A9%20Web-8B0000?style=for-the-badge)
 ![Network Security](https://img.shields.io/badge/S%C3%A9curit%C3%A9%20R%C3%A9seau-003366?style=for-the-badge)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-1F6FEB?style=for-the-badge)
+![Blue Team](https://img.shields.io/badge/Blue%20Team-0A66C2?style=for-the-badge)
+![Red Team](https://img.shields.io/badge/Red%20Team-8B0000?style=for-the-badge)
+![Purple Team](https://img.shields.io/badge/Purple%20Team-6F42C1?style=for-the-badge)
 
-![Threats](https://img.shields.io/badge/Menaces%20et%20Vuln%C3%A9rabilit%C3%A9s-4B0082?style=for-the-badge)
-![Best Practices](https://img.shields.io/badge/Bonnes%20Pratiques%20de%20S%C3%A9curit%C3%A9-2F4F4F?style=for-the-badge)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-2F4F4F?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-005571?style=for-the-badge)
+![Security Awareness](https://img.shields.io/badge/Security%20Awareness-2E8B57?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge)
 
-![Academic](https://img.shields.io/badge/Cours%20Acad%C3%A9miques-555555?style=for-the-badge)
-![Industry](https://img.shields.io/badge/Cours%20Industriels-696969?style=for-the-badge)
+
 
 ---
 
