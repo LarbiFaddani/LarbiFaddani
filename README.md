@@ -1,72 +1,97 @@
-# Larbi FADDANI
-**Futur Ingénieur en Informatique (EMSI Casablanca – MIAGE) | Stage PFE (6 mois) dès Février**  
-Full-Stack Developer — Java / Spring Boot · React · .NET · Flutter · Laravel
+# 👋 Bonjour, je suis Larbi Faddani
 
-[![Email](https://img.shields.io/badge/Email-faddanilarbi01%40gmail.com-informational)](mailto:faddanilarbi01@gmail.com)
-[![Phone](https://img.shields.io/badge/Tel-+212%207%2062%2016%2040%2050-informational)](tel:+212762164050)
-[![Location](https://img.shields.io/badge/Casablanca-Maroc-informational)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-LarbiFaddani-black)](https://github.com/LarbiFaddani)
+Développeur Full-Stack spécialisé dans la conception d’applications **fiables, propres et prêtes pour la production**.  
+Je développe des solutions web, mobiles et backend adaptées à des besoins réels.
 
 ---
 
-## À propos
-Élève ingénieur en 5ᵉ année à l’EMSI Casablanca (option MIAGE), motivé et rigoureux.  
-Je recherche un **stage PFE (6 mois)** dans un environnement technique exigeant, orienté backend / full-stack, architecture logicielle et bonnes pratiques.
+## 🚀 Ce que je réalise
+- 📱 Applications mobiles (Flutter)
+- 🌐 Applications web (React, Laravel, .NET, Django)
+- ⚙️ APIs backend sécurisées (REST, JWT)
+- 🧱 Systèmes complets (frontend + backend + base de données)
 
 ---
 
-## Stack technique
-**Backend** : Java (Spring Boot, Jakarta EE) · .NET Core · Django · Laravel · REST API · JWT  
-**Frontend** : React · TypeScript/JavaScript · Flutter · HTML/CSS · Bootstrap  
-**Data** : PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Firebase  
-**DevOps / Tools** : Docker · Git/GitHub · GitLab CI/CD · SonarQube · Postman · Linux  
-**Méthodes** : Agile Scrum · Jira · UML · Merise
+## 🧩 Projets sélectionnés
+
+### 🎧 Application mobile de lecture de podcasts
+Application mobile complète développée en Flutter.
+
+**Fonctionnalités**
+- Lecture de podcasts depuis des flux RSS
+- Parsing des épisodes, images et contenu HTML
+- Lecture audio en arrière-plan
+- Player global persistant avec mini-player
+- Architecture propre et navigation fluide
+
+**Technologies**  
+Flutter, Riverpod, GoRouter, audio_service, just_audio
 
 ---
 
-## Expériences
-**Help Mariage (Technopark Casa)** — *Stagiaire Full-Stack* (Juil. 2025 → Sept. 2025)  
-- Modules back-office Laravel pour “Make My Day” / “Make My Day Pro”
-- Déploiement via cPanel
+### 🏢 Système de gestion de stock (Web)
+Plateforme web pour la gestion des produits, stocks et commandes.
 
-**Involys (Casablanca)** — *Stagiaire Front-End* (Juil. 2024 → Août 2024)  
-- Application web fournisseurs en React
-- Simulation de données via MockAPI + Postman
+**Fonctionnalités**
+- API REST sécurisée (JWT)
+- Tableau de bord d’administration
+- Architecture backend robuste
 
-**Wings Technologies (Technopark Casa)** — *Stagiaire Full-Stack* (Fév. 2023 → Avr. 2023)  
-- Plateforme de gestion d’annonces publicitaires (React + Laravel)
-
----
-
-## Projets (sélection)
-### Inventory Management System — Microservices
-Spring Boot · React · PostgreSQL · RabbitMQ · JWT  
-Objectif : automatiser les commandes et optimiser la gestion multi-emplacements.
-
-### Gestion de Parking Universitaire
-React · .NET Core · SQL Server · REST API · JWT  
-Objectif : gestion temps réel des réservations et optimisation des places.
-
-### Podcast_flutter (Flutter)
-Flutter · Riverpod · GoRouter · audio_service · just_audio  
-Lecteur de podcasts RSS : parsing XML/HTML, mini-player global, lecture en background (Android Foreground Service).
+**Technologies**  
+Spring Boot, React, PostgreSQL, Docker
 
 ---
 
-## Certifications
-- IBM — Introduction to Containers w/ Docker, Kubernetes & OpenShift  
-- Meta — Advanced React
+### 🚗 Système de gestion de parking
+Application web pour la gestion et la réservation de places de parking.
+
+**Fonctionnalités**
+- Gestion en temps réel des places
+- Backend sécurisé
+- Interface utilisateur claire
+
+**Technologies**  
+React, .NET Core, SQL Server
 
 ---
 
-## Ce que j’aime livrer
-- Code propre, architecture modulaire, bonnes pratiques
-- APIs robustes, performance, sécurité (JWT), CI/CD
-- UX soignée et itérative
+## 🛠 Stack technique
+
+**Frontend**
+- React, JavaScript, TypeScript
+- Flutter
+- HTML, CSS, Bootstrap
+
+**Backend**
+- Java (Spring Boot)
+- .NET Core
+- Laravel
+- Django
+- APIs REST, JWT
+
+**Bases de données**
+- PostgreSQL, MySQL, SQL Server
+- MongoDB, Firebase
+
+**Outils**
+- Git & GitHub
+- Docker
+- Postman
+- Linux
 
 ---
 
-## Contact
-- **Email** : faddanilarbi01@gmail.com  
-- **Téléphone** : +212 7 62 16 40 50  
-- **Localisation** : Casablanca, Maroc
+## 🤝 Ma façon de travailler
+- Code clair et maintenable
+- Compréhension des besoins métier
+- Communication simple et efficace
+- Livraison de fonctionnalités utilisables
+
+---
+
+## 📬 Contact
+- 📧 Email : faddanilarbi01@gmail.com  
+- 📍 Localisation : Casablanca, Maroc  
+
+N’hésitez pas à consulter mes projets ou à me contacter pour une collaboration.
