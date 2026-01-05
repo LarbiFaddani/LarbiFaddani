@@ -20,14 +20,13 @@ Développeur Full-Stack | Web & Mobile | Sécurité Applicative | Solutions orie
 ---
 
 ## 🙋‍♂️ À propos de moi
-Développeur Full-Stack spécialisé dans la création d’applications **fiables, sécurisées et prêtes pour la production**.  
-J’aide des particuliers, startups et entreprises à transformer leurs idées en **solutions digitales concrètes et sûres**.
+Ingénieur Développeur Full-Stack, spécialisé dans la conception d’applications fiables, sécurisées et prêtes pour la production.
+J’accompagne des particuliers, startups et entreprises dans la transformation de leurs idées en solutions digitales concrètes, performantes et sûres.
 
-- 🔭 Projets **web et mobiles orientés business**
-- ⚙️ Fort accent sur **backend, APIs, sécurité et architecture propre**
-- 🔐 Sensibilité élevée à la **sécurité applicative**
-- ⚡ Objectif : livrer des produits utiles, performants et sécurisés
-
+🔭 Projets web et mobiles orientés business
+⚙️ Fort accent sur backend, APIs, sécurité et architecture propre
+🔐 Sensibilité élevée à la sécurité applicative
+⚡ Objectif : livrer des produits utiles, performants et sécurisés
 ---
 
 ## 🧱 Stack & Compétences
