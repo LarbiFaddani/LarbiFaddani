@@ -84,11 +84,11 @@ J’aide des particuliers, startups et petites entreprises à transformer leurs 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LarbiFaddani&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarbiFaddani&layout=compact&theme=tokyonight" />
-</p>
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=LarbiFaddani&show_icons=true&theme=tokyonight)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LarbiFaddani&layout=compact&theme=tokyonight)
+
 
 ---
 
