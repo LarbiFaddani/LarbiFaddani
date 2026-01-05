@@ -113,5 +113,3 @@ J’accompagne des particuliers, startups et entreprises dans la transformation 
 - 📧 Email : faddanilarbi01@gmail.com  
 - 📱 WhatsApp : [07 62 16 40 50](https://wa.me/212762164050)  
 - 🌍 Portfolio : https://portfolio-react-kappa-fawn.vercel.app/acceuil  
-
-Disponible pour **projets freelance**, collaborations ou missions ponctuelles.
