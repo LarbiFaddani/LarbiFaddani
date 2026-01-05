@@ -78,8 +78,9 @@ J’aide des particuliers, startups et petites entreprises à transformer leurs 
 | Projet | Description | Repo |
 |------|------------|------|
 | 🎧 Podcast Player Mobile | Application Flutter de lecture de podcasts RSS avec player global et mini-player | https://github.com/LarbiFaddani/Podcast_flutter |
-| 🏢 Gestion de Stock | Système web complet pour gestion produits et commandes | À remplacer |
-| 🚗 Gestion de Parking | Plateforme web de réservation de parking | À remplacer |
+| 🏢 Gestion de Stock | Système web complet pour la gestion des produits et des commandes | https://github.com/LarbiFaddani/Gestion_Stock |
+| 🚗 Gestion de Parking | Plateforme web pour la réservation et la gestion des places de parking | https://github.com/LarbiFaddani/gestion_parking |
+| 🔐 Détection de documents frauduleux (Blockchain) | Système de vérification et de détection de documents frauduleux basé sur la blockchain | https://github.com/LarbiFaddani/blockchain-docs |
 
 ---
 ## 🤝 Collaboration & Contact
